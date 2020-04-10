@@ -19,4 +19,4 @@ the sheet 'pred_output' contains the post_id to be suggetsted to the user .
 
 the number of post to be suggested can be varied by the variable 'n_post'  in cell 19 in the jupyter notebook. As of now n_post=20	
 
-eg, user 0 has the post 552 as top ranked and 62 next	
+eg, user 0 has the post 115 as top ranked and 875 next	
